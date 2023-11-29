@@ -1,9 +1,11 @@
 # Basic Expressjs Server #
-you need to download typescript and express [npm](https://www.npmjs.com/)
-and nodejs
-##First Step##
-install tsconfig.json by using npx tsc --init
-##Second Step##
+in this repo you will learn how to make a basic express js server using typescript
+## First Step ##
+install tsconfig.json by using
+```
+npx tsc --init
+```
+## Second Step ##
 Search for rootDir and out dir in tsconfig remove the comment in rootDir type src , type dist in outDir
 Make src folder make typescript file in it.
 ## package.json install ##
