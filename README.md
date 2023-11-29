@@ -21,7 +21,15 @@ npm i @types/express //to install @types
 start by importing express in the ts file 
 ```
 import express from 'express'
-const PORT = 3000
 const app = express()
+const PORT = 3000;
+
+app.listen(PORT,()=>{
+    console.log("server is running on port",PORT);
+});
 
 ```
+the code above will make a basic server with out anything
+## social media accounts ##
+[twitter](https://twitter.com/sa_fah9)
+[instagram](https://instagram.com/leeu_992)
