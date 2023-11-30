@@ -28,7 +28,7 @@ open cmd type the commands below
 npm i express  //to install express 
 npm i @types/express //to install @types
 ```
-## Start building the server using express and type express ##
+## Start building the server using express and typescript ##
 start by importing express in the ts file 
 ```
 import express from 'express'
